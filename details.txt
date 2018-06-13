@@ -1,0 +1,2 @@
+Run using nodemon:
+SET DEBUG=express-locallibrary-tutorial:* & npm run devstart
